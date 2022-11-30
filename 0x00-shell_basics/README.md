@@ -1,0 +1,1 @@
+This dir is created to house some bash scripts which will do the following; 0-current_working_directory - this script will print the absolute pathname to the current working directory. 1-listit - This will list the content of the current directory. Others will be explain later.
