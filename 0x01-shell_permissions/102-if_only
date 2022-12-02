@@ -1,2 +1,2 @@
 #!/bin/bash
-sudu chown -R guillaume betty hello
+sudu chown betty -R guillaume hello

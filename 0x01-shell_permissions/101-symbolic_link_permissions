@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown chgroup vincent staff _hello 
+sudo chown vincent chgrp staff _hello 
