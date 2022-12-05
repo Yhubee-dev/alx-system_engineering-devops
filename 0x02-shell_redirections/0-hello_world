@@ -1,0 +1,2 @@
+#!/bin/bash
+sort < hello-world_file > hello-world_sorted 
