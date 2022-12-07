@@ -1,2 +1,2 @@
 #!/bin/bash
-acho PATH/action
+acho $PATH/action
